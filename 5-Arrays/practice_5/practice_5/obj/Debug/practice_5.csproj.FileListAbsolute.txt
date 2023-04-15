@@ -1,0 +1,8 @@
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\bin\Debug\practice_5.exe.config
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\bin\Debug\practice_5.exe
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\bin\Debug\practice_5.pdb
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\obj\Debug\practice_5.csproj.AssemblyReference.cache
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\obj\Debug\practice_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\obj\Debug\practice_5.csproj.CoreCompileInputs.cache
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\obj\Debug\practice_5.exe
+C:\Users\junai\OneDrive\Desktop\C#\5-Arrays\practice_5\practice_5\obj\Debug\practice_5.pdb
